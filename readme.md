@@ -9,7 +9,7 @@ Welcome to my portfolio! This is a simple, responsive portfolio built using only
 ## 📁 Project Structure
 
 
-## ✨ Features
+## ✨ Upcoming Features
 
 - Responsive layout
 - Clean and modern design
@@ -18,7 +18,7 @@ Welcome to my portfolio! This is a simple, responsive portfolio built using only
 
 ## 🚀 Live Demo
 
-[🔗 Click here to see it live](https://yourusername.github.io/portfolio-html-css)
+[🔗 Click here to see it live](https://roshan-portfolio-04.netlify.app/)
 
 > You can deploy it using **GitHub Pages** later if you want (I can guide that too).
 
