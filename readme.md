@@ -29,6 +29,6 @@ Welcome to my portfolio! This is a simple, responsive portfolio built using only
 
 ## 📞 Contact
 
-Connect with me:
+Connect with me: ok
 - 📧 roshan04vp@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/roshan04vp)
