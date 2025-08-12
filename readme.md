@@ -4,7 +4,7 @@ Welcome to my portfolio! This is a simple, responsive portfolio built using only
 
 ## 🖼️ Preview
 
-![Screenshot](assets/Screenshot%202025-08-07%20230834.png) <!-- Optional: Add screenshot of your portfolio -->
+![Screenshot](assets/ssofport.png) <!-- Optional: Add screenshot of your portfolio -->
 
 ## 📁 Project Structure
 
